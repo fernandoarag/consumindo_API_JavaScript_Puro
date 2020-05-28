@@ -1,0 +1,43 @@
+label {
+  margin-left: 10px;
+  text-align: center;
+}
+
+#input_pesq {
+  width: 80%;
+  margin-left: 10px;
+  align-items: center;
+}
+
+button {
+  display: inline-block;
+  margin-left: 10px;
+  align-items: center;
+}
+
+#div_resp {
+  display: inline-block;
+  width: 40%;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-left: 10px;
+  position: static;
+}
+
+#div_est {
+  display: inline-block;
+  width: 40%;
+  position: static;
+  border: 1px solid black;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+.div_de_pesquisa {
+  padding: 10px 10px 10px 10px;
+  align-items: center;
+}
+
+.div_de_pesquisa img {
+  border-radius: 50px;
+}
